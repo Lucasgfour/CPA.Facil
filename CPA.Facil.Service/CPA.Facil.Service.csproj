@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CPA.Facil.Data.Repository\CPA.Facil.Data.Repository.csproj" />
+    <ProjectReference Include="..\CPA.Facil.Data.Rules\CPA.Facil.Data.Rules.csproj" />
+    <ProjectReference Include="..\CPA.Facil.Data\CPA.Facil.Data.csproj" />
+  </ItemGroup>
+
+</Project>

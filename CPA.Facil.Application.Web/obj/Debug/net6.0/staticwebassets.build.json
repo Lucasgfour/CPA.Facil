@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dfUtZPyQw2yJxcOwQK8hREx0V2rQkiaf3FZvslXDgzs=",
+  "Source": "CPA.Facil.Application.Web",
+  "BasePath": "_content/CPA.Facil.Application.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

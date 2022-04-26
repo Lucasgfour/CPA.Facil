@@ -1,0 +1,12 @@
+E:\Visual Studio 2022\CPA.Facil\CPA.Facil.Data\bin\Debug\net6.0\CPA.Facil.Data.deps.json
+E:\Visual Studio 2022\CPA.Facil\CPA.Facil.Data\bin\Debug\net6.0\CPA.Facil.Data.dll
+E:\Visual Studio 2022\CPA.Facil\CPA.Facil.Data\bin\Debug\net6.0\CPA.Facil.Data.pdb
+E:\Visual Studio 2022\CPA.Facil\CPA.Facil.Data\obj\Debug\net6.0\CPA.Facil.Data.csproj.AssemblyReference.cache
+E:\Visual Studio 2022\CPA.Facil\CPA.Facil.Data\obj\Debug\net6.0\CPA.Facil.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio 2022\CPA.Facil\CPA.Facil.Data\obj\Debug\net6.0\CPA.Facil.Data.AssemblyInfoInputs.cache
+E:\Visual Studio 2022\CPA.Facil\CPA.Facil.Data\obj\Debug\net6.0\CPA.Facil.Data.AssemblyInfo.cs
+E:\Visual Studio 2022\CPA.Facil\CPA.Facil.Data\obj\Debug\net6.0\CPA.Facil.Data.csproj.CoreCompileInputs.cache
+E:\Visual Studio 2022\CPA.Facil\CPA.Facil.Data\obj\Debug\net6.0\CPA.Facil.Data.dll
+E:\Visual Studio 2022\CPA.Facil\CPA.Facil.Data\obj\Debug\net6.0\refint\CPA.Facil.Data.dll
+E:\Visual Studio 2022\CPA.Facil\CPA.Facil.Data\obj\Debug\net6.0\CPA.Facil.Data.pdb
+E:\Visual Studio 2022\CPA.Facil\CPA.Facil.Data\obj\Debug\net6.0\ref\CPA.Facil.Data.dll

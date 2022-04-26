@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CPA.Facil.Data.Rules/1.0.0": {
+        "dependencies": {
+          "CPA.Facil.Data": "1.0.0"
+        },
+        "runtime": {
+          "CPA.Facil.Data.Rules.dll": {}
+        }
+      },
+      "CPA.Facil.Data/1.0.0": {
+        "runtime": {
+          "CPA.Facil.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CPA.Facil.Data.Rules/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CPA.Facil.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
